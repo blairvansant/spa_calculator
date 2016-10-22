@@ -1,0 +1,30 @@
+
+.body {
+	margin-top: 20px;
+	background-color: lightblue;
+	border-style: double;
+	padding-top: 20px;
+	width: 1000px;
+}
+
+.calc {
+	background-color: lightyellow;
+	padding: 20px 0 0 0;
+	margin-bottom:  -0px;
+}
+
+
+/*.buttons {
+	margin: center;
+}
+*/
+/*#inpOne {
+	margin: 0 25px;
+	padding: 0 45px;
+}
+
+#inpTwo {
+	padding-right: : 30px;
+	margin: 0 90px;
+	padding:0 45px;
+}*/
